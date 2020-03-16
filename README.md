@@ -1,13 +1,21 @@
 # Antivirus
 
-This project sets up a collaborative environment for data scientists to have readily accessible resources and dependencies to work with JHU's CSSE data for COVID-19 cases. 
+This project sets up a collaborative environment for data scientists to have readily accessible resources and dependencies to work with JHU CSSE's data for COVID-19 cases. 
 
 The data is directly fetched raw from JHU's repository: https://github.com/CSSEGISandData/COVID-19.
+
+## Collaboration with Git
+To collaborate in this project, first clone the following URL: https://github.com/Gustrigos/Antivirus.git.
+
+Add the following in terminal or cmd. 
+```cmd
+git clone https://github.com/Gustrigos/Antivirus.git.
+```
 
 ## Environment Setup
 This project works with Python 3.7 or later.
 
-To start, the following creates a virtual environment, it then activates it, and installs all the libraries and dependencies used in this project. 
+To start, create a virtual environment, activates it, and install all the dependencies needed for this project. 
 
 ```cmd
 python -m venv env
