@@ -18,7 +18,7 @@ This project works with Python 3.7 or later.
 To start, create a virtual environment, activates it, and install all the dependencies needed for this project. 
 
 ```cmd
-python -m venv env
+python3 -m venv env
 source ./env/bin/activate
 pip install -r requirements.txt
 ```
