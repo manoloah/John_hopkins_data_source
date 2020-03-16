@@ -26,3 +26,6 @@ pip3 install -r requirements.txt
 ## Fetching Data 
 fetch_data.py gets timeseries data for confirmed, death, and recovered cases directly from JHU CSSE's COVID-19 repository in raw csv format. It then stores each list into a pandas dataframe object. 
 
+## Use Case: Visualizing Mexico's Confirmed Cases
+test_data.py introduces an example of how to visualize confirmed cases in Mexico up to date with pandas and matplotlib. It renders the following graph:
+
