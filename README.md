@@ -20,7 +20,7 @@ To start, create a virtual environment, activates it, and install all the depend
 ```cmd
 python3 -m venv env
 source ./env/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Fetching Data 
