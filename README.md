@@ -29,4 +29,4 @@ fetch_data.py gets timeseries data for confirmed, death, and recovered cases dir
 ## Use Case: Visualizing Mexico's Confirmed Cases
 test_data.py introduces an example of how to visualize confirmed cases in Mexico up to date with pandas and matplotlib. It renders the following graph:
 
-![alt text](https://raw.githubusercontent.com/Gustrigos/Antivirus/Master/confirmed_mexico.png)
+![alt text](https://raw.githubusercontent.com/Gustrigos/Antivirus/master/confirmed_mexico.png)
