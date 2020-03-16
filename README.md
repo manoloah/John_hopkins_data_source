@@ -4,7 +4,7 @@ This project sets up a collaborative environment for data scientists to have rea
 
 The data is directly fetched raw from JHU's repository: https://github.com/CSSEGISandData/COVID-19.
 
-## Environment Setup
+## Environment Setup
 This version works with Python 3.7 or later
 
 To start, the following creates a virtual environment, it then activates it, and installs all the libraries and dependencies used in this project. 
@@ -15,5 +15,5 @@ source ./env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Fetching Data 
+## Fetching Data 
 fetch_data.py gets data directly from 
