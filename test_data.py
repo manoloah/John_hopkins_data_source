@@ -23,6 +23,8 @@ country_data.index = pd.to_datetime(country_data.index)
 
 plt.title("Confirmed cases in {country} as of {today}".format(country=country,today=country_data.index[-1].date()))
 plt.xticks(rotation=45)
+plt.ylabel("Confirmed Cases")
+plt.xlabel("Date")
 plt.plot(country_data)
 plt.show()
 
